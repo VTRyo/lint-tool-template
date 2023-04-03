@@ -1,0 +1,6 @@
+version: 1
+
+# Datadogは例です
+rules:
+  - expected: Datadog
+    pattern: datadog
